@@ -27,6 +27,9 @@ uma das observações que compõe o dataset, essas variáveis são:
 - **Dimensão Y-Y** do diamante.
 - **Dimensão Z-Z** dimensão do diamante.
 
+O projeto final está disponível em: 
+https://longosystem-ml-diamond-streamlitapp-kan2hh.streamlitapp.com/
+
 
 
 
