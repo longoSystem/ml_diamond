@@ -1,0 +1,35 @@
+############# DIAMONDS - DATASET #############
+
+https://www.kaggle.com/datasets/natedir/diamonds
+
+About Dataset
+This is a dataset that includes 9 observations about the characteristics of each unique diamond,
+as well as the price.
+
+Carat- Carat weight of the diamond
+Cut - The cut rating of the diamond
+Color - The color rating of the diamond
+Clarity - The clarity rating of the diamond
+Table - The table width of the diamond
+Depth- The percentage of depth of the diamond
+Price - The price (in USD) of the diamond
+X- X dimension of the diamond
+Y- Y dimension of the diamond
+Z- Z dimension of the diamond
+
+#####################################################################
+
+Sobre o conjunto de dados
+Este é um conjunto de dados que inclui 9 observações sobre as características de cada diamante único,
+bem como o preço.
+
+Quilate - Peso em quilates do diamante
+Corte - A classificação de corte do diamante
+Cor - A classificação de cor do diamante
+Clareza - A classificação de clareza do diamante
+Tabela - A largura da mesa do diamante
+Profundidade- A porcentagem de profundidade do diamante
+Preço - O preço (em USD) do diamante
+X-X dimensão do diamante
+Dimensão Y-Y do diamante
+Z-Z dimensão do diamante
